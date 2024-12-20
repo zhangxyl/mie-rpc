@@ -1,0 +1,4 @@
+jdk=com.mrzhang.mierpc.serializer.JdkSerializer
+hessian=com.mrzhang.mierpc.serializer.HessianSerializer
+json=com.mrzhang.mierpc.serializer.JsonSerializer
+kryo=com.mrzhang.mierpc.serializer.KryoSerializer

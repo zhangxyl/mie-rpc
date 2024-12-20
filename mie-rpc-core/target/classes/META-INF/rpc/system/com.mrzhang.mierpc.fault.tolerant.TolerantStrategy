@@ -1,0 +1,4 @@
+failBack=com.mrzhang.mierpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.mrzhang.mierpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.mrzhang.mierpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.mrzhang.mierpc.fault.tolerant.FailSafeTolerantStrategy

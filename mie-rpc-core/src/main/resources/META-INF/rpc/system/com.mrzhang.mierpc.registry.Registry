@@ -1,0 +1,2 @@
+etcd=com.mrzhang.mierpc.registry.EtcdRegistry
+
